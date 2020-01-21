@@ -6,3 +6,6 @@
 
 ## Step 2
     Configure your username and email using the commands below
+
+## Step 3
+    Add files or alter current project
