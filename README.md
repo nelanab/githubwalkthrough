@@ -70,3 +70,4 @@ Commit to cloud repository using the command below
 ```git 
 git push -u origin master
 ```
+Files must be commiting locally first to commit over the cloud
