@@ -71,3 +71,6 @@ Commit to cloud repository using the command below
 git push -u origin master
 ```
 Files must be commiting locally first to commit over the cloud
+
+## Step 13 
+Check github to confirm push
