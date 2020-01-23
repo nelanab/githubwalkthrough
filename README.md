@@ -25,4 +25,33 @@ Commit files to branch with code below
 ```git
 git commit -m "[insert message here]"
 ```
+
 ## Step 5
+Check branch status with the code below
+```git 
+git status
+```
+
+## Step 6
+Check branches by using the code below
+```git
+git branch
+```
+
+## Step 7
+Delete branches with the code below
+```git
+git branch -d [name of branch]
+```
+
+## Step 8
+Adding branches with the code below
+```git
+git branch [new branch name]
+```
+
+## Step 9 
+Move to a different branch using the code below
+```git
+git checkout [branch name]
+```
