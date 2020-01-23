@@ -74,3 +74,9 @@ Files must be commiting locally first to commit over the cloud
 
 ## Step 13 
 Check github to confirm push
+
+## Step 14
+To pull changes from github, use the command below
+```git
+git pull origin master
+```
