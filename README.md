@@ -55,3 +55,18 @@ Move to a different branch using the code below
 ```git
 git checkout [branch name]
 ```
+
+## Step 10
+merge branches using the code below 
+```git
+git merge [branch to merge with current names]
+```
+
+## Step 11
+Initialize cloud repository using the git remote add origin "URL" command from github
+
+## Step 12
+Commit to cloud repository using the command below
+```git 
+git push -u origin master
+```
